@@ -6,7 +6,7 @@
 int main()
 {
 
-int a,b;
+int a,b,resultado3;
 
    printf( " Hola mundo \n" );
    printf( " este es mi primer programa en c\n" );
@@ -19,6 +19,8 @@ int a,b;
     
     
  printf( "las divicion de A y B\n" ); //MASTER
+ resultado3=a/b;
+ 	printf("la divivion es: %d",resultado3);
 
     return 0;
     
