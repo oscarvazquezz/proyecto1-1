@@ -16,7 +16,7 @@ int a,b,resultado;
      printf( "dame el segundo valor para B = " );//primera rama prueva 1
      scanf("%d", &b);
      resultado=a+B; //segunda rama prueva 2
-     
+     	printf("Tu suma es: %d",resultado); //segunda rama prueva 2
      
      
     getch(); /* Pausa */
