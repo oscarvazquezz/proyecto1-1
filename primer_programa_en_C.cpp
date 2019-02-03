@@ -6,7 +6,7 @@
 int main()
 {
 
-int a,b;
+int a,b,resultado;
 
    printf( " Hola mundo \n" );
    printf( " este es mi primer programa en c\n" );
@@ -15,6 +15,10 @@ int a,b;
     scanf("%d", &a);
      printf( "dame el segundo valor para B = " );//primera rama prueva 1
      scanf("%d", &b);
+     resultado=a+B; //segunda rama prueva 2
+     
+     
+     
     getch(); /* Pausa */
 
     return 0;
