@@ -6,14 +6,16 @@
 int main()
 {
 
+int a;
 
-
-   printf( "Hola mundo." );
-   printf( "este es mi primer programa en c" );
-   printf( "la suma de dos numeros A y B" );
+   printf( " Hola mundo \n" );
+   printf( " este es mi primer programa en c\n" );
+   printf( " la suma de dos numeros A y B\n" );
+    printf( "dame el primer valor para A = " );//primera rama prueva 1
+    scanf("%d", &a);
  
     getch(); /* Pausa */
 
     return 0;
-} resultado=pow(a+b,3)/c;
-  		  printf("resultado %f",resultado);
+    
+} 
