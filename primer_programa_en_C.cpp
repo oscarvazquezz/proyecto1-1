@@ -9,7 +9,7 @@ int main()
 
 
     printf( "Hola mundo." );
-   
+   printf( "este es mi primer programa en c" );
 
  
     getch(); /* Pausa */
