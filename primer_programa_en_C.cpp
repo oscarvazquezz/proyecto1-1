@@ -8,9 +8,9 @@ int main()
 
 
 
-    printf( "Hola mundo." );
+   printf( "Hola mundo." );
    printf( "este es mi primer programa en c" );
-
+   printf( "la suma de dos numeros A y B" );
  
     getch(); /* Pausa */
 
